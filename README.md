@@ -2,7 +2,7 @@
 
 **Crafting Immersive Digital Experiences with Unity, Three.js, and Web Technologies**
 
-![https://images.app.goo.gl/rKJXeDG5SisjVVpu7](https://unitythreehub.vercel.app/assets/preview.png)
+![/public/assets/preview.png](https://unitythreehub.vercel.app/assets/preview.png)
 
 ---
 
@@ -16,7 +16,6 @@
 
 **UnityThreeHub** is a modern digital studio founded in **2024** in **Coimbatore, Tamil Nadu, India**. We're a trio of creators and engineers on a mission to bring **next-gen experiences** to life using:
 
-- 3D Design & Development (Unity / Three.js)
 - Full-stack Web Applications
 - Creative Mobile Apps
 - Strategy-driven UX/UI Design
