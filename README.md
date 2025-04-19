@@ -2,7 +2,7 @@
 
 **Crafting Immersive Digital Experiences with Unity, Three.js, and Web Technologies**
 
-![Banner](https://unitythreehub.vercel.app/assets/preview.png)
+![file:///C:/Users/roniw/Downloads/logo_u3h.jpg](https://unitythreehub.vercel.app/assets/preview.png)
 
 ---
 
