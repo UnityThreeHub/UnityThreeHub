@@ -48,8 +48,6 @@ Here’s what powers UnityThreeHub:
 
 | Tech | Logo |
 |------|------|
-| **Unity** | ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png) |
-| **Three.js** | ![Three.js](https://raw.githubusercontent.com/mrdoob/three.js/dev/files/favicon.ico) |
 | **React.js** | ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) |
 | **Node.js** | ![Node.js](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png) |
 | **Express.js** | ![Express](https://img.icons8.com/ios-filled/50/000000/express-js.png) |
@@ -69,27 +67,5 @@ Here’s what powers UnityThreeHub:
 
 ---
 
-## 🛣️ Roadmap
 
-- [x] Launch company website
-- [x] Offer custom web & mobile services
-- [x] Integrate Unity-based demos
-- [ ] Build an in-house 3D web builder
-- [ ] Expand client base to international markets
-- [ ] Start UnityThreeHub YouTube channel for tutorials
 
----
-
-## 📦 Deployment
-
-> The project is deployed using [**Vercel**](https://vercel.com/)
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/unitythreehub.git
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
